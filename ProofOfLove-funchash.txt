@@ -1,0 +1,4 @@
+{
+	"06661abd": "count()",
+	"cb7bba61": "prove(string,string)"
+}

@@ -1,0 +1,20 @@
+{
+	"eac9d94c": "averageGen0SalePrice()",
+	"454a2ab3": "bid(uint256)",
+	"96b5a755": "cancelAuction(uint256)",
+	"878eb368": "cancelAuctionWhenPaused(uint256)",
+	"27ebe40a": "createAuction(uint256,uint256,uint256,uint256,address)",
+	"8a98a9cc": "gen0SaleCount()",
+	"78bd7935": "getAuction(uint256)",
+	"c55d0f56": "getCurrentPrice(uint256)",
+	"85b86188": "isSaleClockAuction()",
+	"484eccb4": "lastGen0SalePrices(uint256)",
+	"dd1b7a0f": "nonFungibleContract()",
+	"8da5cb5b": "owner()",
+	"83b5ff8b": "ownerCut()",
+	"8456cb59": "pause()",
+	"5c975abb": "paused()",
+	"f2fde38b": "transferOwnership(address)",
+	"3f4ba83a": "unpause()",
+	"5fd8c710": "withdrawBalance()"
+}

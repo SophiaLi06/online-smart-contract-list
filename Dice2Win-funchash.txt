@@ -1,0 +1,20 @@
+{
+	"d06c54fb": "acceptNextOwner()",
+	"d579fd44": "approveNextOwner(address)",
+	"6b5c5f39": "croupier()",
+	"d6d30a51": "increaseJackpot(uint256)",
+	"57246d23": "jackpotSize()",
+	"41c0e1b5": "kill()",
+	"df88126f": "lockedInBets()",
+	"b539cd55": "maxProfit()",
+	"8da5cb5b": "owner()",
+	"5e83b463": "placeBet(uint256,uint256,uint256,uint256,bytes32,bytes32)",
+	"e1fdb4b4": "refundBet(uint256)",
+	"4d61537f": "secretSigner()",
+	"f8bb201c": "setCroupier(address)",
+	"fbd668a9": "setMaxProfit(uint256)",
+	"d702087f": "setSecretSigner(address)",
+	"ca722cdc": "settleBet(uint256,bytes32)",
+	"74e048d5": "settleBetUncleMerkleProof(uint256,uint40)",
+	"c1075329": "withdrawFunds(address,uint256)"
+}
